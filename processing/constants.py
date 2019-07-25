@@ -1,0 +1,5 @@
+END_TOKEN = 'E'
+BEGIN_TOKEN = 'B'
+UNK = 'UNK'
+SEP = 'SEP'
+PAD = 'PAD'
